@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="UPS_QR" size="1.000000 1.001957" />
+    <ImageTarget name="Capture" size="512.000000 552.378540" />
+    <ImageTarget name="images" size="512.000000 340.712738" />
+    <ImageTarget name="UPS" size="0.500000 0.500000" />
+    <ImageTarget name="generator" size="500.000000 373.684204" />
+    <ImageTarget name="furnace" size="520.000000 416.000000" />
+    <ImageTarget name="boiler" size="500.000000 500.000000" />
+    <ImageTarget name="Pump" size="671.000000 386.000000" />
+    <ImageTarget name="Motor" size="0.200000 0.135256" />
+    <ImageTarget name="earth" size="0.250000 0.250208" />
+  </Tracking>
+</QCARConfig>
